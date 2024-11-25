@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">Retinova</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_detect">Deteksi</string>
+    <string name="title_person">Profile</string>
+    <string name="dummy_token">dummy_token</string>
+    <string name="login_success">Login Berhasil</string>
+    <string name="empty_email_password">Email atau password tidak boleh kosong</string>
+    <string name="wrong_email_password">Email atau password salah</string>
+    <string name="registration_success">Registrasi Berhasil</string>
+    <string name="registration_failed">Registrasi Gagal, Periksa Input Anda</string>
+
+    <string name="onboarding_title_detection">Deteksi Diabetesmu</string>
+    <string name="onboarding_title_chatbot">Chatbot Pintar</string>
+    <string name="onboarding_title_article">Artikel dan Panduan</string>
+
+    <string name="onboarding_desc_detection">Cegah komplikasi diabetes dengan mendeteksi lebih awal melalui scan retina mata</string>
+    <string name="onboarding_desc_chatbot">Dapatkan jawaban cepat dengan chatbot yang siap membantu Anda kapan saja</string>
+    <string name="onboarding_desc_article">Akses artikel untuk memperdalam pemahaman Anda mengenai diabetes</string>
+
+    <string name="get_started">Get Started</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="back">Back</string>
+
+    <string name="hint_email">Masukkan Email Anda</string>
+    <string name="btn_reset_password">Reset Password</string>
+
+    <string name="tagline">Deteksi Diabetes Lebih Awal</string>
+    <string name="login_title">Masuk ke Akun Anda</string>
+    <string name="google_icon_description">Ikon Google</string>
+    <string name="login_with_google">Masuk dengan Google</string>
+    <string name="or">Atau</string>
+    <string name="email_label">Email</string>
+    <string name="email_hint">Masukkan email Anda</string>
+    <string name="password_label">Password</string>
+    <string name="password_hint">Masukkan password Anda</string>
+    <string name="forgot_password">Lupa Password?</string>
+    <string name="login_button">Masuk</string>
+    <string name="no_account">Belum punya akun?</string>
+    <string name="register_now">Daftar Sekarang</string>
+    <string name="app_icon_description">app_deskripsi</string>
+
+    <!-- Registration Form -->
+    <string name="daftarkan_akun_anda">Daftarkan Akun Anda</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="nama_hint">Masukkan nama Anda</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="konfirmasi_password_hint">Konfirmasi password Anda</string>
+    <string name="daftar">Daftar</string>
+    <string name="sudah_punya_akun">Sudah punya akun?</string>
+    <string name="login_sekarang">Masuk Sekarang</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="riwayat_gula_darah">Riwayat Gula Darah</string>
+    <string name="rekomendasi">Rekomendasi</string>
+    <string name="image_preview">image_preview</string>
+    <string name="result_default">result_default</string>
+    <string name="result_format">Classification Result: %1$s</string>
+
+    <string name="classification_result_format">Status: %1$s\nKepercayaan: %2$d%%</string>
+    <string name="Atur_Ulang_Password">Atur Ulang Password</string>
+    <string name="reset_password_email_sent">Email reset password telah dikirim. Silakan periksa email Anda.</string>
+    <string name="reset_password_failed">Gagal mengirim email reset password. Silakan coba lagi.</string>
+    <string name="email_empty_error">Email tidak boleh kosong</string>
+    <string name="invalid_email_format">Format email tidak valid</string>
+    <string name="default_web_client_id">YOUR_ACTUAL_WEB_CLIENT_ID</string>
+    <string name="doctor_image">gamabar dokter</string>
+    <string name="search_icon">search</string>
+    <string name="calendar_icon">kaleder</string>
+    <string name="select_date">pilih tanggal</string>
+    <string name="fill_all_fields">isi semua data</string>
+    <string name="faq_title">FAQ</string>
+    <string name="back_button_desc">Kembali</string>
+
+    <!-- Pertanyaan dan Jawaban -->
+    <string name="question_is_app_paid">Apakah aplikasi Retinova berbayar?</string>
+    <string name="answer_is_app_paid">Tidak Bapak/Ibu, aplikasi Retinova dapat di unduh melalui App Store secara gratis.</string>
+
+    <string name="question_how_to_login">Bagaimana cara Masuk di Aplikasi Retinova?</string>
+    <string name="answer_how_to_login">
+        Bapak/Ibu dapat masuk ke aplikasi Retinova dengan cara mendaftar terlebih dahulu. Berikut ini langkah-langkah untuk mendaftarkan akun di aplikasi Retinova:
+        1. Buka aplikasi Retinova
+        2. Klik Daftar
+        3. Isikan data nama, email yang aktif, kata sandi
+        4. Jika sudah, klik Daftar
+        5. Buka Email Bapak/Ibu untuk proses verifikasi account
+        6. Masuk kembali ke aplikasi KlikDiabetes, dan login menggunakan alamat email serta kata sandi yang telah di daftarkan
+    </string>
+
+    <string name="question_forgot_password">Bagaimana jika saya lupa kata sandi saya?</string>
+    <string name="answer_forgot_password">
+        1. Akses tombol Lupa kata sandi pada menu Masuk
+        2. Masukkan alamat email Anda.
+        3. Email konfirmasi akan dikirimkan langsung ke alamat email Bapak/Ibu.
+        4. Akses email tersebut dan tekan tombol yang tersedia untuk membuat kata sandi baru di aplikasi Retinova.
+    </string>
+    <!-- Header -->
+    <string name="privacy_title">Privacy</string>
+
+    <!-- Privacy Policy Content -->
+    <string name="privacy_intro">
+        Terima kasih telah menggunakan Retinova. Kami menghargai privasi Anda dan berkomitmen untuk melindungi data pribadi Anda. Kebijakan ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi Anda saat menggunakan aplikasi Retinova.
+    </string>
+
+    <string name="privacy_section_1">1. Informasi yang Kami Kumpulkan</string>
+    <string name="privacy_section_1_content">
+        • Email: Anda diminta untuk masuk menggunakan alamat email untuk keperluan autentikasi.\n
+        • Foto Retina: Foto yang diunggah akan digunakan untuk mendiagnosis kondisi kesehatan mata Anda.
+    </string>
+
+    <string name="privacy_section_2">2. Penggunaan Informasi</string>
+    <string name="privacy_section_2_content">
+        Data yang Anda berikan akan digunakan untuk:\n
+        • Menganalisis kondisi retina untuk mendeteksi risiko diabetes.\n
+        • Meningkatkan kualitas layanan kami melalui analisis anonim.
+    </string>
+
+    <!-- Other sections -->
+    <string name="privacy_footer">
+        Dengan menggunakan aplikasi Retinova, Anda menyetujui kebijakan privasi ini.\n
+        Terakhir diperbarui: [tanggal terakhir pembaruan]
+    </string>
+    <!-- Header -->
+    <string name="notes_title">Notes</string>
+
+    <!-- Notes Content -->
+    <string name="help_center">
+        Help Center: Langsung mengarah ke email help center dan dengan template email\n\n
+        (subject) Masalah terkait aplikasi\n
+        (isi) Halo,\n
+        Nama:\n
+        Email yang Terdaftar:\n
+        Keluhan:
+    </string>
+
+    <string name="rate_us">Rate us: Langsung mengarah ke appstore</string>
+</resources>

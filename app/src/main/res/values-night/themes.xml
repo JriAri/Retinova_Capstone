@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Retinova" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="bottomNavigationStyle">@style/BottomNavCustomStyleNight</item>
+    </style>
+
+    <style name="BottomNavCustomStyleNight" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="shapeAppearanceOverlay">@style/BottomNavShapeAppearanceNight</item>
+        <item name="backgroundTint">@color/gray_900</item>
+    </style>
+
+    <style name="BottomNavShapeAppearanceNight" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+</resources>
