@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "651348414058",
+    "project_id": "retinova-b566f",
+    "storage_bucket": "retinova-b566f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651348414058:android:eac58926c2a2b912b00413",
+        "android_client_info": {
+          "package_name": "com.dicoding.retinova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651348414058-rbnd2rhldihsifsc1lifsrbipr7r6klc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dicoding.retinova",
+            "certificate_hash": "7bfb50c1be31c455d1270495fa58431ab5a5a933"
+          }
+        },
+        {
+          "client_id": "651348414058-dls304vf0kvqef63qf6j1buhe2k9knn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx14P_Yoh2Q8DOzJ-ZTtKZQfONNnH9xvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651348414058-dls304vf0kvqef63qf6j1buhe2k9knn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
