@@ -23,8 +23,8 @@ class FaqActivity : AppCompatActivity() {
     }
 
     private fun navigateBackToProfile() {
-        val intent = Intent(this, MainActivity::class.java)
-        intent.putExtra("navigate_to", "ProfileFragment")
+        val intent = Intent(this, ProfileFragment::class.java)
+        intent.putExtra("navigate_to", "ProfilFragment")
         startActivity(intent)
         finish()
     }

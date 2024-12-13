@@ -24,7 +24,7 @@ class PrivacyActivity : AppCompatActivity() {
 
     private fun navigateBackToProfile() {
         // Intent untuk kembali ke MainActivity ke fragment Profile
-        val intent = Intent(this, MainActivity::class.java)
+        val intent = Intent(this, ProfileFragment::class.java)
         intent.putExtra("navigate_to", "ProfileFragment") // Mengirim data navigasi
         startActivity(intent)
         finish() // Menutup NotesActivity
